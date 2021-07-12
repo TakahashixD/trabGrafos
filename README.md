@@ -1,1 +1,1 @@
-Algoritimos de kruskal, RandomTreeWalk
+Algoritimos de Kruskal, RandomWalk e Prim.
