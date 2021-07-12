@@ -1,0 +1,1 @@
+Algoritimos de kruskal, RandomTreeWalk
